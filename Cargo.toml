@@ -7,13 +7,13 @@ edition = "2021"
 
 [dependencies]
 # Piston
-piston = "0.53.0"
+piston = "1.0.0"
 # Implementation for a Window with Glutin
-pistoncore-glutin_window = "0.70.1"
+pistoncore-glutin_window = "0.72.0"
 # Graphics API
-piston2d-graphics = "0.43.0"
+piston2d-graphics = "0.44.0"
 # Implementation for the Graphics API with opengl
-piston2d-opengl_graphics = "0.82.0"
+piston2d-opengl_graphics = "0.85.1"
 
 # A small library with a map where the key is a usize
 slab = "0.4.7"
